@@ -1,0 +1,13 @@
+{
+  "short_name": "Mom Exercise",
+  "name": "Mom Exercise",
+  "icons": [
+    { "src": "logo192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "logo512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#EDF3F1",
+  "background_color": "#EDF3F1"
+}
